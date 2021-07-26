@@ -19,10 +19,11 @@ class login:
         return
 
     def logging_in_process(self):
-        # click on "INTL ID"
+        # click the "INTL ID" button
         self.driver.implicitly_wait(10)
-        INTL_ID_button = self.driver.find_element_by_xpath("/html/body/div[2]/div/div[1]/a/img")
-        INTL_ID_button.click()
+        INTL_ID_button_second = self.driver.find_element_by_xpath(
+            '/html/body/div/div[3]/div[2]/div/div[2]/div/div[1]/div/div[1]/a/img')
+        INTL_ID_button_second.click()
 
         # enter the account name
         self.driver.implicitly_wait(10)
@@ -43,17 +44,6 @@ class login:
         YES_button = self.driver.find_element_by_xpath(
             '/html/body/div/form/div/div/div[2]/div[1]/div/div/div/div/div/div/div[1]/div[2]/div/div[2]/div/div[3]/div[2]/div/div/div[2]/input')
         YES_button.click()
-
-        # click the "click this link" button
-        self.driver.implicitly_wait(10)
-        click_this_link_button = self.driver.find_element_by_xpath('/html/body/div/div/div[3]/p[2]/span/a[1]')
-        click_this_link_button.click()
-
-        # click the "INTL ID" button again
-        self.driver.implicitly_wait(10)
-        INTL_ID_button_second = self.driver.find_element_by_xpath(
-            '/html/body/div/div[3]/div[2]/div/div[2]/div/div[1]/div/div[1]/a/img')
-        INTL_ID_button_second.click()
 
         return
 
