@@ -10,6 +10,8 @@
 
 Before you started, you need to guarantee that you’ve already installed `python3` and `pip3`.
 
+## Steps to use
+
 ### Clone the repository
 
 ```shell
