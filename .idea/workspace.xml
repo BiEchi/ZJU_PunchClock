@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60cfb64c-2037-4bdf-a3ea-8cb834ffc085" name="默认变更列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ZJU_PunchClock.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/readme_about/before_started.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/readme_about/check_for_right_version.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/readme_about/correct_version.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/readme_about/examine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/readme_about/move_into_path.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/readme_about/overall.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/readme_about/signature.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="60cfb64c-2037-4bdf-a3ea-8cb834ffc085" name="默认变更列表" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

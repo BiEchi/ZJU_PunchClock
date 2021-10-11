@@ -4,9 +4,9 @@
    * [Steps to use](#steps-to-use)
       * [Clone the repository](#clone-the-repository)
       * [Install the dependencies on your python](#install-the-dependencies-on-your-python)
+      * [Config your identical information](#config-your-identical-information)
       * [Install the chromedriver](#install-the-chromedriver)
-
-## Steps to use
+      * [Run the program](#run-the-program)
 
 Before you started, you need to guarantee that you’ve already installed `python3` and `pip3`.
 
