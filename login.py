@@ -41,8 +41,7 @@ class login:
 
         # click the YES button
         self.driver.implicitly_wait(10)
-        YES_button = self.driver.find_element_by_xpath(
-            '/html/body/div/form/div/div/div[2]/div[1]/div/div/div/div/div/div/div[1]/div[2]/div/div[2]/div/div[3]/div[2]/div/div/div[2]/input')
+        YES_button = self.driver.find_element_by_xpath('//*[@id="idSIButton9"]')
         YES_button.click()
 
         return

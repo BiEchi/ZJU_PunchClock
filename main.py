@@ -1,9 +1,14 @@
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 from login import login
 from time import sleep
 
+# set the Chrome options
+chrome_options = Options()
+chrome_options.add_argument('--headless')
+
 # use Chrome to access the clock-punching website
-driver = webdriver.Chrome()
+driver = webdriver.Chrome(options=None)  # omit options if don't want to use headless mode; add options=chrome_options if you want to use headless mode
 driver.get('https://healthreport.zju.edu.cn/ncov/wap/default/index')
 
 # call the submodule login
