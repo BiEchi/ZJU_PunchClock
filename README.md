@@ -24,6 +24,22 @@ pip3 install time
 pip3 install configparser
 ```
 
+### Config your identical information
+
+You need to create a file in the root directory of this repository called `config.ini` with your personal information in it.
+
+```shell
+touch config.ini
+```
+
+Then please go into the file and edit it to be in this form:
+
+```shell
+[identification_information]
+account_config=Haob.88@intl.zju.edu.cn
+password_config=FAKEDPASSWD
+```
+
 ### Install the `chromedriver`
 
 **Install the Chrome driver**
@@ -61,3 +77,12 @@ Notes:
 \-   You must download exactly the same version of `chromedriver` as your chrome browser if you want to use the `chromedriver` as your selenium driver. The chrome browser on your machine is likely to be updated automatically when a new version is released. In this case, please update to the newest version of `chromedriver` too.
 
 \-   I strongly recommend you to install the `chromedriver` into the system software directory immediately, i.e. it should appear in `/usr/local/bin/chromedriver`.
+
+### Run the program
+
+At last, just run the `main.py` program.
+
+```shell
+python3 main.py
+```
+
