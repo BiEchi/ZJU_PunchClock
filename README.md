@@ -1,15 +1,15 @@
 # ZJU_PunchClock
 
-* * * [ZJU_PunchClock](#zju_punchclock)
-          * [If you want to start using released APP](#if-you-want-to-start-using-released-app)
-             * [Download the right version of this software](#download-the-right-version-of-this-software)
-             * [Install the chromedriver](#install-the-chromedriver)
-             * [Run the program](#run-the-program)
-          * [If you want to start from Scratch](#if-you-want-to-start-from-scratch)
-             * [Clone the repository](#clone-the-repository)
-             * [Install the dependencies on your python](#install-the-dependencies-on-your-python)
-             * [Install the chromedriver](#install-the-chromedriver-1)
-             * [Run the program](#run-the-program-1)
+* [ZJU_PunchClock](#zju_punchclock)
+   * [If you want to start using released APP](#if-you-want-to-start-using-released-app)
+      * [Download the right version of this software](#download-the-right-version-of-this-software)
+      * [Install the chromedriver](#install-the-chromedriver)
+      * [Run the program](#run-the-program)
+   * [If you want to start from Scratch](#if-you-want-to-start-from-scratch)
+      * [Clone the repository](#clone-the-repository)
+      * [Install the dependencies on your python](#install-the-dependencies-on-your-python)
+      * [Install the chromedriver](#install-the-chromedriver-1)
+      * [Run the program](#run-the-program-1)
 
 Before you started, you need to guarantee that you’ve already installed `python3` and `pip3`.
 
