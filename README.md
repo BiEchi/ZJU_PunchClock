@@ -17,7 +17,7 @@ Before you started, you need to guarantee that you’ve already installed `pytho
 
 ### Download the right version of this software
 
-Please go to the [GitHub Release Website]() to download the right version of your app.
+Please go to the [GitHub Release Website](https://github.com/BiEchi/ZJU_PunchClock/releases/tag/v1.0) to download the right version of your app.
 
 ### Install the `chromedriver`
 
