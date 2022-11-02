@@ -13,6 +13,8 @@
 
 Before you started, you need to guarantee that you’ve already installed `python3` and `pip3`. **If you’re working on a server, please also install Chrome before you install ChromDriver (because most of time you do not have Chrome already).**
 
+Note to use `pip3 install Selenium==v4.0.0`, not the latest Selenium!
+
 ## Add the Config file
 
 Before you start, add the config file `config.ini` in the upmost directory, with the foramt below:
