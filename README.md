@@ -11,7 +11,17 @@
       * [Install the chromedriver](#install-the-chromedriver-1)
       * [Run the program](#run-the-program-1)
 
-Before you started, you need to guarantee that you’ve already installed `python3` and `pip3`.
+Before you started, you need to guarantee that you’ve already installed `python3` and `pip3`. **If you’re working on a server, please also install Chrome before you install ChromDriver (because most of time you do not have Chrome already).**
+
+## Add the Config file
+
+Before you start, add the config file `config.ini` in the upmost directory, with the foramt below:
+
+```ini
+[identification_information]
+account_config=3190117890
+password_config=Kita@8920
+```
 
 ## If you want to start using released APP
 

@@ -5,7 +5,7 @@ from time import sleep
 
 # set the Chrome options
 chrome_options = Options()
-chrome_options.add_argument('--headless')
+# chrome_options.add_argument('--headless')
 
 # use Chrome to access the clock-punching website
 driver = webdriver.Chrome(options=chrome_options)  # omit options if don't want to use headless mode; add options=chrome_options if you want to use headless mode
